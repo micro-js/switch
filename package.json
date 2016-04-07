@@ -2,7 +2,7 @@
   "name": "@f/switch",
   "description": "A functional switch statement.",
   "repository": "git://github.com/micro-js/switch.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
